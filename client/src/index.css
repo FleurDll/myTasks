@@ -1,0 +1,33 @@
+*,
+h1,
+h2,
+p {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Encode Sans Expanded", sans-serif;
+  letter-spacing: 0.05rem;
+}
+
+body {
+  background-color: #121212;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  color: inherit;
+}
+
+.date-picket-input {
+  padding: 10px;
+  margin: 5px;
+  background-color: #1f1f1f;
+  border: none;
+  outline: none;
+  color: grey;
+}
